@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.notice {
+    font-family: 'Open Sans', sans-serif;
+    width: 50%;
+    margin: 40px auto;
+    border: 1px #b2aaaa solid;
+    padding: 10px 20px;
+    box-shadow: 5px 3px 40px #b2aaaa;
+}
+
+h3 {
+    border-bottom: 2px solid #000000;
+    padding-bottom: 10px;
+}
+
+.mac {
+    background-color: orange;
+}
